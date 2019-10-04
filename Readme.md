@@ -15,3 +15,7 @@ AirBNB/
 - calendar.csv         ==> Booking information of houses in Seattle.
 - listings.csv         ==> Information of houses in Seattle.
 - reviews.csv          ==> Reviews of houses in Seattle.
+
+
+# Blogpost on the findings
+https://medium.com/@subramanian.kishore/airbnb-seattle-listing-analysis-f5f2917699bc
