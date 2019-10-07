@@ -8,7 +8,9 @@ Use visualizations to make findings more understandable and communicate to stake
 ## Business questions being answered
 
 How is the pricing differ across airbnb?
+
 Which Feature affect listing price the most in Seattle, and how?
+
 What are the most important things to tenants?
 
 
@@ -21,7 +23,7 @@ What are the most important things to tenants?
 
 ## Analysis
 
-As there is no modelling work in this analysis. All efforts are to data cleannign and exploration to answer business questions raised above. And most data wrangling work is put on "listing.csv". Missing values are interpolated or dropped based on my judgements. Histogram, and wordclouds are adopted to better visualize the results.
+Most efforts are to data cleannign and exploration to answer business questions raised above. And most data wrangling work is put on "listing.csv". Missing values are interpolated or dropped based on my judgements. Histogram, and wordclouds are adopted to better visualize the results.
 
 ## File descriptions
 
